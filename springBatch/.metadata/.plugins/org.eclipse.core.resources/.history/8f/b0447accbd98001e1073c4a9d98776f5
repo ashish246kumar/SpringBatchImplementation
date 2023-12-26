@@ -1,0 +1,5 @@
+package com.lean.springBatch.springBatch.partion;
+
+public class ColumnRangePartitioner {
+
+}

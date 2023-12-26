@@ -1,0 +1,5 @@
+package com.lean.springBatch.springBatch.entity;
+
+public class Customer {
+
+}

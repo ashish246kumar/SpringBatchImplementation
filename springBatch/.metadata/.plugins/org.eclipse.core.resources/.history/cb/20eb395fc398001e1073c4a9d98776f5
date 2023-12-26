@@ -1,0 +1,5 @@
+package com.lean.springBatch.springBatch.config;
+
+public class CustomerWriter {
+
+}
